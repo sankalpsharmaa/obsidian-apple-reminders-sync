@@ -1,0 +1,10 @@
+{
+	"id": "apple-reminders-sync",
+	"name": "Apple Reminders Sync",
+	"version": "1.0.0",
+	"minAppVersion": "1.1.1",
+	"description": "Syncs today's Apple Reminders into your daily note's TODO section, with notes and priority indicators.",
+	"author": "Sankalp Sharma",
+	"authorUrl": "https://github.com/sankalpsharmaa",
+	"isDesktopOnly": true
+}
